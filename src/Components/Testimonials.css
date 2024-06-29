@@ -1,0 +1,8 @@
+.testimonials {
+    font-size: inherit;    
+}
+.testimonials-text {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+}

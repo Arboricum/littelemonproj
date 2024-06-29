@@ -1,0 +1,23 @@
+.footer {
+    margin-top: 20px;
+    display: flex;
+}
+.footer-main-ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-main-ul li {
+    margin-right: 20px;
+    font-weight: 600;
+    list-style: none;
+}
+.footer-main-ul>li {
+    margin-top: 10px;
+}
+.footer-secondary-ul {
+    padding: 0;
+}
+.footer-secondary-ul li {
+    font-weight: 400;
+    list-style: none;
+}

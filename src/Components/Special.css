@@ -1,0 +1,13 @@
+.special-card {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+}
+.special-title {
+    display: flex;
+    align-items: center;
+}
+.special {
+    margin-top: 70px;
+    font-size: inherit;
+}
